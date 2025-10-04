@@ -34,7 +34,7 @@ Este projeto faz parte da prática do curso [Excel com inteligência artificial]
 ### Como Executar
 
 Basta baixar o arquivo em .xlsx [aqui](https://github.com/KevynFirst/organizador-impostos-excel/blob/eb040e02a27bf9fbfba07eece0ce216ac853a9f8/organizador-impostos-excel.xlsx). 👈🏻
-
+<br>Para uma melhor experiencia, deixe a planilha em fullscreen.
 <br>
 
 ## 😉 Obrigado por visitar meu projeto
